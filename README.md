@@ -1,10 +1,12 @@
-<h1 align="left">Letícia Andrade</h1>
+<h1 align="left">Letícia Andrade 👨‍💻</h1>
 
 ###
 
-<br clear="both">
+<h3 align="left">📝 Sobre Mim</h3>
 
-<h5 align="left">📝 Sobre Mim<br>🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (3/8).<br>🌱 Atualmente aprendendo Java e SQL.<br><br>🎯 Objetivo de carreira: Trabalhar como UX Designer, criando interfaces intuitivas e experiências digitais que impactem positivamente os usuários.<br><br>⚽ Apaixonado por atividade física e livros.<br>🗣️ Idiomas: Português (nativo) | Inglês (em aprimoramento).</h5>
+###
+
+<h4 align="left">🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (3/8).<br><br>🌱 Atualmente aprendendo Java e SQL.<br><br>🎯 Objetivo de carreira: Trabalhar como UX Designer, criando interfaces intuitivas e experiências digitais que impactem positivamente os usuários.<br><br>⚽ Apaixonado por atividade física e livros.<br><br>🗣️ Idiomas: Português (nativo) | Inglês (em aprimoramento).</h4>
 
 ###
 
@@ -55,6 +57,12 @@
   <a href="https://www.instagram.com/leh_ups?igsh=NmV3ZzRwMmhsaWdz&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://web.whatsapp.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
   <a href="https://web.whatsapp.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
   </a>
