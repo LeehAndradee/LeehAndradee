@@ -61,6 +61,9 @@
   <a href="https://www.instagram.com/leh_ups?igsh=NmV3ZzRwMmhsaWdz&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://wa.me/5535992290077" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
