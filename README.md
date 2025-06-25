@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">👩‍💻 Hello, world! Eu sou a Letícia Andrade</h1>
+<h1 align="left">🎬Hello, world! Eu sou a Letícia Andrade</h1>
 
 ###
 
-<h2 align="left">📝 About me</h2>
+<h2 align="left">🎤 About me</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">🛠️ I code with</h2>
+<h2 align="left">💻 I code with</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h2 align="left">✉️ Social Media</h2>
+<h2 align="left">📟 Social Media</h2>
 
 ###
 
@@ -52,6 +52,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">🛠️ Most Used Languages on My Projects</h2>
 
 ###
@@ -62,16 +64,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeehAndradee/LeehAndradee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeehAndradee/LeehAndradee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeehAndradee/LeehAndradee/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/LeehAndradee/LeehAndradee/output/snake.svg" alt="Snake animation" />
 
 ###
