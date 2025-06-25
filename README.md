@@ -64,6 +64,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LeehAndradee/LeehAndradee/output/snake.svg" alt="Snake animation" />
 
 ###
