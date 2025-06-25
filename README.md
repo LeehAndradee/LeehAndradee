@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h1 align="left">👩‍💻 Hello, world! Eu sou a Letícia Andrade</h1>
 
 ###
@@ -32,6 +34,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">✉️ Social Media</h2>
 
 ###
@@ -61,6 +65,8 @@
 <h2 align="left"></h2>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeehAndradee/LeehAndradee/output/pacman-contribution-graph-dark.svg">
