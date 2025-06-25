@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">🎬Hello, world! Eu sou a Letícia Andrade</h1>
+<h1 align="left">🎬Hello, world! I'm Letícia Andrade</h1>
 
 ###
 
